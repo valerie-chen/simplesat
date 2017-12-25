@@ -1,0 +1,15 @@
+Basic SAT Solver using Two Watch Literals
+Project Owner: Valerie Chen (vc284)
+
+I owe much to the following resources in helping me understand the concept of watched literals: 
+- http://www.gecode.org/events/acp-summerschool-2011/slides/Gent/SATCP3.pdf
+- https://www.princeton.edu/~chaff/publication/DAC2001v56.pdf (referred to me by Lucas Paul, a fellow student)
+- http://ssa-school-2016.it.uu.se/wp-content/uploads/2016/06/LaurentSimon.pdf
+- http://www.cs.utexas.edu/users/moore/acl2/seminar/2008.12.10-swords/sat.pdf
+- https://www.academia.edu/9255616/Simple_and_Efficient_SAT_Solving_using_Watched_Literals
+
+To run the SAT solver:
+“src/satsolver file”
+OR
+“Python src/satsolver.py file”
+
